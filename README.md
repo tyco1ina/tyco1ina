@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tiberius Colina's Github Profile
 
-<!--
-**tyco1ina/tyco1ina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Welcome to my Github! I'm Tiberius, and I'm a computer science student at Georgia Tech with a strong interest in cloud computing and artificial intelligence. I've explored these areas of computer science through internships and projects.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Python, Java, SQL, HTML, CSS, JavaScript
+- Frameworks & Runtimes: React, FastAPI, Express, Node.js
+- Cloud & IaC: AWS (Lambda, API Gateway, DynamoDB, S3, EC2, Step Functions, RDS, API Gateway, CloudWatch), Terraform
+- Tools: Git, Docker, Linux
+- Certifications: AWS Certified Cloud Practitioner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/tcolina
+- Email: tiberiuscolina009@gmail.com
